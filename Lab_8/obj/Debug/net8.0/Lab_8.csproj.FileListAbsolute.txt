@@ -1,0 +1,15 @@
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\bin\Debug\net8.0\Lab_8.exe
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\bin\Debug\net8.0\Lab_8.deps.json
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\bin\Debug\net8.0\Lab_8.runtimeconfig.json
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\bin\Debug\net8.0\Lab_8.dll
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\bin\Debug\net8.0\Lab_8.pdb
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.AssemblyInfoInputs.cache
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.AssemblyInfo.cs
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.csproj.CoreCompileInputs.cache
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.sourcelink.json
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.dll
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\refint\Lab_8.dll
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.pdb
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\Lab_8.genruntimeconfig.cache
+D:\KiemThuNangCao\Lab\Lab_8\Lab_8\obj\Debug\net8.0\ref\Lab_8.dll
