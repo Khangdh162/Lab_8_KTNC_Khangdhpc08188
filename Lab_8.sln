@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{
 		demo.yml = demo.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Lab_8", "Test_Lab_8\Test_Lab_8.csproj", "{2914F5E1-F22B-436D-9811-E3EFEABC95E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EBFB7E1B-B905-42B6-A5EE-5A27605846BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFB7E1B-B905-42B6-A5EE-5A27605846BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFB7E1B-B905-42B6-A5EE-5A27605846BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2914F5E1-F22B-436D-9811-E3EFEABC95E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2914F5E1-F22B-436D-9811-E3EFEABC95E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2914F5E1-F22B-436D-9811-E3EFEABC95E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2914F5E1-F22B-436D-9811-E3EFEABC95E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
